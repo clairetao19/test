@@ -1,3 +1,11 @@
 This is a test
+<<<<<<< HEAD
 
 Hello am Claire
+=======
+Hello ollie is in the house
+Aww yeah. Kicking goals mate!
+
+Great stuff homie
+Sweet. I'm slo glad this works.
+>>>>>>> 27f1b1d651b3a88b4fac17943ee17b336833fb9d
